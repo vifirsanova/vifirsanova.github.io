@@ -243,3 +243,24 @@ h2{
 	color: rgba(187, 38, 73);
 }
 
+.special-links a {
+	display: flex;
+	flex-direction: column;
+	width: 50px;
+	height: 50px;
+	font-size: 25px;
+	color: #fff;
+	text-align: center;	
+	text-decoration: none;
+	box-shadow: 1px 3px 1px 1px rgba(187, 38, 73);
+	margin: 30px 30px;
+	border-radius: 100%;
+	overflow: hidden;
+	transition: transform 0.5s;
+	border-bottom: none;
+	padding: 10px;
+}
+
+.special-links a:hover {
+  transform: translateY(-10px);
+}
