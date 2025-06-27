@@ -1,5 +1,11 @@
 [
   {
+    "title": "Towards Building a Mobile App for People on the Spectrum",
+    "description": "The inclusion of autistic people can be augmented by a mobile app that provides information without a human mediator making information perception more liberating for people in the spectrum. This paper is an overview of a doctoral work dedicated to the development of a web-based mobile tool for supporting the inclusion of people on the autism spectrum. The work includes UX/UI research conducted with psychiatry experts, web information retrieval study and neural question-answering research. Currently, the study results comprise several mobile app layouts, a retriever-reader model design and fine-tuned neural network for extractive question-answering. Source code and other resources are available at https://github.com/vifirsanova/empi.",
+    "image": "https://raw.githubusercontent.com/vifirsanova/vifirsanova.github.io/refs/heads/master/assets/img/photo_2025-06-27_22-08-25.jpg",
+    "link": "https://web.archive.org/web/20230509010158id_/https://dl.acm.org/doi/pdf/10.1145/3543873.3587533"
+  },
+  {
     "title": "Project Title",
     "description": "Brief description...",
     "image": "https://link.to/image.png",
